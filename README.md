@@ -1,3 +1,1 @@
-# zadanka
-# ok
-# 3
+Niektóre zadania z różnych kursów
